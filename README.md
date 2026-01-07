@@ -3,7 +3,7 @@
 A professional, high-performance, and fully responsive B2B agro-export platform built for **hellomisterkrui.web.id**. This site is designed to showcase premium Indonesian kratom to global buyers with a focus on trust, scientific validation, and ease of communication.
 
 ## 🚀 Live Branding
-- **Site Name**: hellomisterkrui.web.id
+- **Site Name**: https://github.com/anjection/hellomisterkrui/index.html
 - **Primary Contact**: hellomisterkrui@kruikratom.web.id
 
 ## ✨ Key Features
