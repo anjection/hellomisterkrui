@@ -4,7 +4,7 @@ A professional, high-performance, and fully responsive B2B agro-export platform 
 
 ## 🚀 Live Branding
 - **Site Name**: https://anjection.github.io/hellomisterkrui/index.html
-- **Primary Contact**: hellomisterkrui@kruikratom.web.id
+
 
 ## ✨ Key Features
 - **Mobile-First Design**: Optimized for all devices with high-quality touch targets.
