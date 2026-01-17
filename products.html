@@ -8,7 +8,7 @@
     
     <link href="/hellomisterkrui/css/fonts.css" rel="stylesheet">
     <script defer src="/hellomisterkrui/js/alpine.js"></script>
-  <link rel="stylesheet" href="/hellomisterkrui/assets/style-39470c8e.css">
+  <link rel="stylesheet" href="/hellomisterkrui/assets/style-240abe0f.css">
 </head>
 
 <body x-data="{ mobileMenuOpen: false, isScrolled: false }" @scroll.window="isScrolled = window.pageYOffset > 100"
@@ -72,14 +72,23 @@
     <main class="pt-16 pb-20 flex-grow">
 
         <!-- Banner Header -->
-        <div class="bg-gradient-to-r from-emerald-700 to-emerald-500 pt-20 pb-24 mb-16 shadow-md">
+        <!-- <div class="bg-gradient-to-r from-emerald-700 to-emerald-500 pt-20 pb-24 mb-16 shadow-md">
             <div class="container mx-auto px-6 text-center animate-fade-in-up">
                 <h1 class="text-4xl md:text-5xl font-bold font-serif text-white mb-6">Premium Grade Kratom</h1>
                 <p class="text-emerald-50 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
                     Sourced from the heart of Borneo. Lab-tested for quality assurance.
                 </p>
             </div>
-        </div>
+        </div> -->
+        <section data-theme="dark" class="bg-emerald-900 text-white py-16 mb-12 relative overflow-hidden">
+            <div
+                class="absolute inset-0 bg-[url('/images/kratom-powder.jpg')] bg-cover bg-center opacity-20">
+            </div>
+            <div class="container mx-auto px-6 relative z-10 text-center">
+                <h1 class="text-4xl lg:text-5xl font-bold font-serif mb-4">Premium Grade Kratom</h1>
+                <p class="text-emerald-100 text-lg max-w-2xl mx-auto">Sourced from the heart of Borneo. Lab-tested for quality assurance.</p>
+            </div>
+        </section>
 
         <section class="container mx-auto px-6 mb-16">
             <div class="space-y-20">
